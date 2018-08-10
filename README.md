@@ -14,7 +14,7 @@ Add `caps-on` to the `.eslintrc` configuration file.
         'caps-on'
     ],
     'rules': {
-        'caps-on/uppercase': 'error'
+        'caps-on/const-uppercase': 'error'
     }
 }
 ```
