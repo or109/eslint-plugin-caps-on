@@ -2,13 +2,12 @@
   "name": "eslint-plugin-caps-on",
   "version": "1.0.0",
   "description": "Make sure all consts and keys are uppercase",
-  "main": "lib/index",
+  "main": "index",
   "directories": {
-    "lib": "lib",
     "test": "test"
   },
   "scripts": {
-    "lint": "eslint lib test",
+    "lint": "eslint rules test",
     "test": "jest"
   },
   "repository": {
@@ -26,7 +25,8 @@
   },
   "homepage": "https://github.com/or109/eslint-plugin-caps-on#readme",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.10",
+    "req-all": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^5.3.0",

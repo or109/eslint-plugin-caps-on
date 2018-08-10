@@ -1,5 +1,5 @@
 const { RuleTester } = require('eslint');
-const rule = require('../lib/rules/caps-on');
+const rule = require('../rules/const-uppercase');
 
 const ruleTester = new RuleTester({ parserOptions: { ecmaVersion: 2017 } });
 
