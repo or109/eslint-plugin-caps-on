@@ -1,4 +1,3 @@
-/* eslint-disable no-template-curly-in-string */
 const { RuleTester } = require('eslint');
 const rule = require('../lib/rules/caps-on');
 
