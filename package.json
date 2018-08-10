@@ -1,0 +1,40 @@
+{
+  "name": "eslint-plugin-caps-on",
+  "version": "1.0.0",
+  "description": "Make sure all consts and keys are uppercase",
+  "main": "lib/index",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint lib test",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/or109/eslint-plugin-caps-on.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin-caps-on"
+  ],
+  "author": "Or Manzur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/or109/eslint-plugin-caps-on/issues"
+  },
+  "homepage": "https://github.com/or109/eslint-plugin-caps-on#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "jest": "^23.4.2"
+  },
+  "jest": {
+    "testURL": "http://localhost"
+  }
+}
