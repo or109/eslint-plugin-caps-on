@@ -1,7 +1,7 @@
 ## Installation
 
 ```
-$ npm i eslint eslint-plugin-caps-on --save-dev
+$ npm i eslint-plugin-caps-on --save-dev
 ```
 
 ## Usage
