@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/or109/eslint-plugin-caps-on/badge.svg)](https://coveralls.io/github/or109/eslint-plugin-caps-on)
 [![Build Status](https://travis-ci.org/or109/eslint-plugin-caps-on.svg?branch=master)](https://travis-ci.org/or109/eslint-plugin-caps-on)
 
 ## Installation
