@@ -4,7 +4,7 @@ module.exports = {
     meta: {
         docs: {
             description: 'Keeping enums to be uppercase standard',
-            category: 'Gefen style',
+            category: 'Mantz style',
             recommended: true,
         },
     },
