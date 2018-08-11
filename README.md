@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/or109/eslint-plugin-caps-on.svg?branch=master)](https://travis-ci.org/or109/eslint-plugin-caps-on)
+
 ## Installation
 
 ```
